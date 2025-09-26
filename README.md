@@ -1,24 +1,18 @@
 <!-- Banner principal (puedes reemplazar con una imagen hecha en Canva o Figma) -->
 ![Banner](https://i.ibb.co/3WRvLmL/github-banner.png)
 
-# 👋 ¿Qué onda? Soy **El REKE**  
+# Hello Word I'm **Heriberto Bacilio Rudiño**  
 
-💻 Ingeniero & Programador | 🎧 Fan de Fuerza Regida y Junior H |  
-🔥 Con estilo urbano y pasión por el código.  
+💻 Ingeniero & Programador | Desarrollo Multiplataforma |  
+🔥 Transformando Ideas En Código.  
 
 ---
 
 ## 🚀 Sobre mí
-- 🎓 21 años, Ingeniero en Sistemas.  
-- ⚙️ Auxiliar de Sistemas (dev + soporte + mejoras).  
-- 🖥️ Experiencia en **HTML, CSS, JS, Flutter y Basic (BV)**.  
+- 🎓 23 años, Ingeniero en Desarrollo y Gestión de Software.  
+- ⚙️ Desarrollador(dev + soporte + mejoras).  
+- 🖥️ Experiencia en **HTML, CSS, JS, Flutter, Basic, PHP, Vue (BV)**.  
 - 🤝 Me gusta ayudar y compartir lo que sé.  
-
----
-
-## 📌 Proyectos destacados
-🔗 [Generador de Links para WhatsApp](https://github.com/TUUSUARIO/proyecto1)  
-💈 [Agenda de Barbería](https://github.com/TUUSUARIO/proyecto2)  
 
 ---
 
@@ -47,9 +41,9 @@
 ---
 
 ## 📫 Contáctame
-- 📧 Email: tuemail@mail.com  
-- 💼 LinkedIn: [Tu perfil aquí](#)  
+- 📧 Email: heribertobacilio61@gmail.com 
+- 💼 LinkedIn: [https://www.linkedin.com/in/heriberto-bacilio-rudiño-230665294](#)
 
 ---
 
-✨ *"NO CAPS, NO LIFE"* — **REKE CAPS**
+✨ *"Si lo imaginas lo puedes programar"*
