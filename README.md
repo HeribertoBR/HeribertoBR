@@ -33,17 +33,10 @@
 
 ---
 
-## 🎶 Un poco de mí
-🌍 Crecí en barrio, pero con visión de salir adelante.  
-🤜🤛 Valoro la lealtad, la familia y la sencillez.  
-🥂 Recuerdo a los que ya no están con un Hornitos en mano.  
-
----
-
 ## 📫 Contáctame
 - 📧 Email: heribertobacilio61@gmail.com 
 - 💼 LinkedIn: [https://www.linkedin.com/in/heriberto-bacilio-rudiño-230665294](#)
 
 ---
 
-✨ *"Si lo imaginas lo puedes programar"*
+✨ *"Una idea sin acción se queda en sueño."*
