@@ -11,7 +11,7 @@
 ## 🚀 Sobre mí
 - 🎓 23 años, Ingeniero en Desarrollo y Gestión de Software.  
 - ⚙️ Desarrollador(dev + soporte + mejoras).  
-- 🖥️ Experiencia en **HTML, CSS, JS, Flutter, Basic, PHP, Vue (BV)**.  
+- 🖥️ Experiencia en **HTML, CSS, JS, Flutter, Visual Basic, PHP, Vue**.  
 - 🤝 Me gusta ayudar y compartir lo que sé.  
 
 ---
