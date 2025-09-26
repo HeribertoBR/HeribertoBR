@@ -1,5 +1,5 @@
 <!-- Banner principal (puedes reemplazar con una imagen hecha en Canva o Figma) -->
-![Banner](https://i.ibb.co/3WRvLmL/github-banner.png)
+![Banner](banner_hbr.png)
 
 # Hello Word I'm **Heriberto Bacilio Rudiño**  
 
